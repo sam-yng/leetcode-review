@@ -7,3 +7,5 @@
 [1456](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/?envType=study-plan-v2&envId=leetcode-75)
 
 [443](https://leetcode.com/problems/string-compression/?envType=study-plan-v2&envId=leetcode-75)
+
+[2352](https://leetcode.com/problems/equal-row-and-column-pairs/description/?envType=study-plan-v2&envId=leetcode-75)

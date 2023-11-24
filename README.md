@@ -22,3 +22,8 @@
 
 [169](https://leetcode.com/problems/majority-element/description/?envType=study-plan-v2&envId=top-interview-150)
 
+[189](https://leetcode.com/problems/rotate-array/?envType=study-plan-v2&envId=top-interview-150)
+
+[121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=study-plan-v2&envId=top-interview-150)
+
+[55](https://leetcode.com/problems/jump-game/description/?envType=study-plan-v2&envId=top-interview-150)

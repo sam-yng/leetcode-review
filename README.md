@@ -27,3 +27,11 @@
 [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=study-plan-v2&envId=top-interview-150)
 
 [55](https://leetcode.com/problems/jump-game/description/?envType=study-plan-v2&envId=top-interview-150)
+
+[274](https://leetcode.com/problems/h-index/description/?envType=study-plan-v2&envId=top-interview-150)
+
+[58](https://leetcode.com/problems/length-of-last-word/description/?envType=study-plan-v2&envId=top-interview-150)
+
+[14](https://leetcode.com/problems/longest-common-prefix/description/?envType=study-plan-v2&envId=top-interview-150)
+
+[151](https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&envId=top-interview-150)

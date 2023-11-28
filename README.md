@@ -1,37 +1,19 @@
-## Leetcode 75
-[1207](https://leetcode.com/problems/unique-number-of-occurrences/?envType=study-plan-v2&envId=leetcode-75)
-
-[2215](https://leetcode.com/problems/find-the-difference-of-two-arrays/?envType=study-plan-v2&envId=leetcode-75)
-
-[1004](https://leetcode.com/problems/max-consecutive-ones-iii/?envType=study-plan-v2&envId=leetcode-75)
-
-[1456](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/?envType=study-plan-v2&envId=leetcode-75)
-
-[443](https://leetcode.com/problems/string-compression/?envType=study-plan-v2&envId=leetcode-75)
-
-[2352](https://leetcode.com/problems/equal-row-and-column-pairs/description/?envType=study-plan-v2&envId=leetcode-75)
-
-## Interview 150
-[88](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)
-
-[27](https://leetcode.com/problems/remove-element/description/?envType=study-plan-v2&envId=top-interview-150)
-
-[26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)
-
-[80](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/?envType=study-plan-v2&envId=top-interview-150)
-
-[169](https://leetcode.com/problems/majority-element/description/?envType=study-plan-v2&envId=top-interview-150)
-
-[189](https://leetcode.com/problems/rotate-array/?envType=study-plan-v2&envId=top-interview-150)
-
-[121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=study-plan-v2&envId=top-interview-150)
-
-[55](https://leetcode.com/problems/jump-game/description/?envType=study-plan-v2&envId=top-interview-150)
-
-[274](https://leetcode.com/problems/h-index/description/?envType=study-plan-v2&envId=top-interview-150)
-
-[58](https://leetcode.com/problems/length-of-last-word/description/?envType=study-plan-v2&envId=top-interview-150)
-
-[14](https://leetcode.com/problems/longest-common-prefix/description/?envType=study-plan-v2&envId=top-interview-150)
-
-[151](https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&envId=top-interview-150)
+| Leetcode 75                                                                                                                            | Interview 150                                                                                                                                     |
+|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| [1207](https://leetcode.com/problems/unique-number-of-occurrences/?envType=study-plan-v2&envId=leetcode-75)                            | [88](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)                                 |
+| [2215](https://leetcode.com/problems/find-the-difference-of-two-arrays/?envType=study-plan-v2&envId=leetcode-75)                       | [27](https://leetcode.com/problems/remove-element/description/?envType=study-plan-v2&envId=top-interview-150)                                     |
+| [1004](https://leetcode.com/problems/max-consecutive-ones-iii/?envType=study-plan-v2&envId=leetcode-75)                                | [26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)                |
+| [1456](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/?envType=study-plan-v2&envId=leetcode-75) | [80](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/?envType=study-plan-v2&envId=top-interview-150)             |
+| [443](https://leetcode.com/problems/string-compression/?envType=study-plan-v2&envId=leetcode-75)                                       | [169](https://leetcode.com/problems/majority-element/description/?envType=study-plan-v2&envId=top-interview-150)                                  |
+| [2352](https://leetcode.com/problems/equal-row-and-column-pairs/description/?envType=study-plan-v2&envId=leetcode-75)                  | [189](https://leetcode.com/problems/rotate-array/?envType=study-plan-v2&envId=top-interview-150)                                                  |
+|                                                                                                                                        | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=study-plan-v2&envId=top-interview-150)                   |
+|                                                                                                                                        | [55](https://leetcode.com/problems/jump-game/description/?envType=study-plan-v2&envId=top-interview-150)                                          |
+|                                                                                                                                        | [274](https://leetcode.com/problems/h-index/description/?envType=study-plan-v2&envId=top-interview-150)                                           |
+|                                                                                                                                        | [58](https://leetcode.com/problems/length-of-last-word/description/?envType=study-plan-v2&envId=top-interview-150)                                |
+|                                                                                                                                        | [14](https://leetcode.com/problems/longest-common-prefix/description/?envType=study-plan-v2&envId=top-interview-150)                              |
+|                                                                                                                                        | [151](https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&envId=top-interview-150)                         |
+|                                                                                                                                        | [28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=study-plan-v2&envId=top-interview-150) |
+|                                                                                                                                        | [125](https://leetcode.com/problems/valid-palindrome/description/?envType=study-plan-v2&envId=top-interview-150)                                  |
+|                                                                                                                                        | [392](https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&envId=top-interview-150)                                    |
+|                                                                                                                                        | [167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/?envType=study-plan-v2&envId=top-interview-150)                  |
+|                                                                                                                                        | [15](https://leetcode.com/problems/3sum/submissions/?envType=study-plan-v2&envId=top-interview-150)                                               |
